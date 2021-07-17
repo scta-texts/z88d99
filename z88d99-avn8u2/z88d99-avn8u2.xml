@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Errores</title>
+        <author ref="#per-x84nST">Stephen Tempier</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Errores</title>
+          <date when="2021-07-16">July 16, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-chaPa1">CUP, 1889, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-07-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="544"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="z88d99-avn8u2">
+        <head xml:id="z88d99-avn8u2-Hd1e104">Errores</head>
+        <div xml:id="z88d99-avn8u2-Dd1e107">
+          <p xml:id="z88d99-avn8u2-d1e109" n="1">
+            <lb ed="#C"/><!-- 1. -->Quod Deus non est trinus et unus, quoniam trinitas non stat cum summa simpli
+            <lb ed="#C" break="no"/>citate. Ubi enim est pluralitas realis, ibi necessario est additio et compositio. Exemplum 
+            <lb ed="#C"/>de acervo lapidum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e119" n="2">
+            <lb ed="#C"/><!-- 2. -->Quod Deus non potest generare sibi similem. Quod enim generatur, ab aliquo 
+            <lb ed="#C"/>habet principium, quo dependet. Et, quod in Deo generare non esset signum perfec<lb ed="#C" break="no"/>tionis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e129" n="3">
+            <lb ed="#C"/><!-- 3. -->Quod Deus non cognoscit alia a se.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e135" n="4">
+            <lb ed="#C"/><!-- 4. -->Quod nichil est eternum a parte finis, quod non sit eternum a parte principii.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e141" n="5">
+            <lb ed="#C"/><!-- 5. -->Quod omnia separata coeterna sunt primo principio.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e148" n="6">
+            <lb ed="#C"/><!-- 6. -->Quod redeuntibus corporibus celestibus omnibus in idem punctum, quod fit in xxx 
+            <lb ed="#C"/>sex milibus annorum, redibunt idem effectus, qui sunt modo.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e156" n="7">
+            <lb ed="#C"/><!-- 7. -->Quod intellectus non est forma corporis, nisi sicut nauta navis, nec est perfectio
+            <lb ed="#C"/>essentialis hominis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e164" n="8">
+            <lb ed="#C"/><!-- 8. -->Quod intellectus, quando vult, dimittit corpus, et quando vult, induit.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e170" n="9">
+            <lb ed="#C"/><!-- 9. -->Quod non fuit primus homo, nec erit ultimus, immo semper fuit et semper erit 
+            <lb ed="#C"/>generatio hominis ex homine.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e178" n="10">
+            <lb ed="#C"/><!-- 10. -->Quod generatio hominis est circularis, eo quod forma hominis redit pluries super 
+            eandem partem materie.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e184" n="11">
+            <lb ed="#C"/><!-- 11. -->Quod homo est homo preter animam rationalem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e191" n="12">
+            <lb ed="#C"/><!-- 12. -->Quod, quia Socrates factus est non receptibilis eternitatis, si debet esse eternus,
+            <lb ed="#C"/>necesse est ut transmutetur natura et specie.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e199" n="13">
+            <lb ed="#C"/><!-- 13. -->Quod ex sensitivo et intellectivo in homine non fit unum per essentiam, nisi 
+            <lb ed="#C"/>sicut ex intelligentia et orbe, hoc est, urium per operationem
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e207" n="14">
+            <lb ed="#C"/><!-- 14. -->Quod homo pro tanto dicitur intelligere, pro quanto celum dicitur ex se intelli<lb ed="#C" break="no"/>gere, ·
+            vel vivere, vel moveri, id est, quia agens istas actiones est ei unitum ut motor 
+            <lb ed="#C"/>mobili, et non substantialiter.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e217" n="15">
+            <lb ed="#C"/><!-- 15. -->Quod homo post mortem amittit omne bonum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e223" n="16">
+            <lb ed="#C"/><!-- 16. -->Quod de fide non est curandum, si dicatur aliquid esse hereticum, quia est 
+            <lb ed="#C"/>contra fidem. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e231" n="17">
+            <lb ed="#C"/><!-- 17. -->Quod non contingit corpus corruptum redire idem numero, nec idem numero resurget. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e238" n="18">
+            <lb ed="#C"/><!-- 18. -->Quod resurrectio futura non debet concedi a philosopho, quia impossibile est 
+            <lb ed="#C"/>eam investigari per rationem. - Error, quia etiam philosophus debet captivare intel<lb ed="#C" break="no"/>lectum
+            ·in obsequium Christi.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e248" n="19">
+            <lb ed="#C"/><!-- 19. -->Quod anima separata nullo modo patitur ab igne.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e254" n="20">
+            <pb ed="#C" n="545"/>
+            <lb ed="#C"/><!-- 20. -->Quod lex naturalis prohibet interfectionem animalium irrationabilium sicut ratio<lb ed="#C" break="no"/>nabilium,
+            licet non tantum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e264" n="21">
+            <lb ed="#C"/><!-- 21. -->Quod nichil fit a casu, sed omnia de necessitate eveniunt, et, quod omnia futura, 
+            <lb ed="#C"/>que erunt, de necessitate erunt, et que non erunt, impossibile est esse, et quod nichil 
+            <lb ed="#C"/>fit contingenter, considerando omnes causas. - Error, quia concursus causarum est de 
+            <lb ed="#C"/>diffinitione casualis, ut elicit <ref xml:id="z88d99-avn8u2-Rd1e275"><name xml:id="z88d99-avn8u2-Nd1e276">Boetius</name> libro <title>de Consolatione</title></ref>. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e283" n="22">
+            <lb ed="#C"/><!-- 22. -->Quod felicitas non potest a Deo immitti inmediate. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e289" n="23">
+            <lb ed="#C"/><!-- 23. -->Quod dicere Deum dare felicitatem uni, et non alii, est sine ratione et 
+            <lb ed="#C"/>figmentum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e298" n="24">
+            <lb ed="#C"/><!-- 24. -->Quod omnes scientie sunt necessarie, preter philosophicas disciplinas, et, quod 
+            <lb ed="#C"/>non sunt necessarie, nisi propter consuetudine hominum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e306" n="25">
+            <lb ed="#C"/><!-- 25. -->Quod Deus non potest dare perpetuitatem rei transmutabili et corruptibili. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e312" n="26">
+            <lb ed="#C"/><!-- 26. -->Quod prima causa posset producere effectum sibi equalem, nisi temperaret 
+            <lb ed="#C"/>potentiam suam. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e320" n="27">
+            <lb ed="#C"/><!-- 27. -->Quod Deus non posset facere plures animas in numero.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e326" n="28">
+            <lb ed="#C"/><!-- 28. -->Quod Deus nunquam plus creavit intelligentiam, quam modo creat. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e332" n="29">
+            <lb ed="#C"/><!-- 29. -->Quod Deus est infinite virtutis in duratione, non in actione, quia talis infinitas
+            <lb ed="#C"/>non est, nisi in corpore infinito, si esset. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e341" n="30">
+            <lb ed="#C"/><!-- 30. -->Quod intelligentie superiores creant animus rationales sine motu celi; intelli<lb ed="#C" break="no"/>gentie
+            autem inferiores creant vegetativam et sensitivam motu coli mediante. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e349" n="31">
+            <lb ed="#C"/><!-- 31. -->Quod intellectus humanus est eternus, quia est a causa eodem modo semper se 
+            <lb ed="#C"/>habente, et quia non habet materiam, per quam prius sit in potentia quam in actu. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e357" n="32">
+            <lb ed="#C"/><!-- 32. -->Quod intellectus est unus numero omnium, licet enim separetur a corpora hoc, 
+            <lb ed="#C"/>non tamen ab omni.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e365" n="33">
+            <lb ed="#C"/><!-- 33. -->Quod raptus et visiones non fiunt, nisi per naturam. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e371" n="34">
+            <lb ed="#C"/><!-- 34. -->Quod prima causa non posset plures mundos facere. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e377" n="35">
+            <lb ed="#C"/><!-- 35. -->Quod sine agento proprio, ut patre et homine, non posset fieri homo a deo. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e384" n="36">
+            <lb ed="#C"/><!-- 36. -->Quod Deum in hac vita mortali possumus intelligere per essentiam. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e390" n="37">
+            <lb ed="#C"/><!-- 37. -->Quod nichil est credendum, nisi per se notum, vel ex per se notis possit declarari. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e396" n="38">
+            <lb ed="#C"/><!-- 38. -->Quod Deus non potuit fecisse primam materiam, nisi mediante corpore celesti. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e402" n="39">
+            <lb ed="#C"/><!-- 39. -->Quod a voluntate antiqua non potest novum procedere absque transmutatione 
+            <lb ed="#C"/>precedente. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e410" n="40">
+            <lb ed="#C"/><!-- 40. -->Quod non est excellentior status, quam vacare philosophie. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e416" n="41">
+            <lb ed="#C"/><!-- 41. -->Quod intellectus Socratis corrupti non habet scientiam eorum, quorum habuit. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e423" n="42">
+            <lb ed="#C"/><!-- 42. -->Quod causa prima non habet scientiam futurorum contingentium. Prima ratio, 
+            <lb ed="#C"/>quia futura contingentia sunt non entia. Secunda, quia futura contingentia sunt particu<lb ed="#C" break="no"/>laria; 
+            Deus autem cognoscit virtute intellectiva, que non potest particulare cognoscere. 
+            <pb ed="#C" n="546"/>
+            <lb ed="#C"/>Unde, si non esset sensus, forte intellectus non distingueret inter Socratem et Pla<lb ed="#C" break="no"/>tonem, 
+            licet distingueret inter hominem et asinum. Tertia est ordo cause ad causatum; 
+            <lb ed="#C"/>prescientia enim divina est causa necessaria prescitorum. Quarta est ordo scientie ad 
+            <lb ed="#C"/>scitum; quamvis enim scientia non sit causa sciti, ex quo tamen scitur, determinatur ad 
+            <lb ed="#C"/>alteram partem contradictionis; et hoc multo magis in scientia divina, quam nostra. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e446" n="43">
+            <lb ed="#C"/><!-- 43. -->Quod primum principium non potest esse causa diversorum factorum hic inferius, 
+            nisi mediantibus aliis causis, eo quod nullum transmutans diversimode transmutat, nisi
+            <lb ed="#C"/>transmutatum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e454" n="44">
+            <lb ed="#C"/><!-- 44. -->Quod ab uno primo agente non potest esse multitudo effectuum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e460" n="45">
+            <lb ed="#C"/><!-- 45. -->Quod primum principium non est propria causa eternorum, nisi metaphorice, 
+            <lb ed="#C"/>quia conservat ea, id est, quia, nisi esset, ea non essent.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e468" n="46">
+            <lb ed="#C"/><!-- 46. -->Quod, sicut ex materia non potest aliquid fieri sine agente, ita nec ex agente 
+            <lb ed="#C"/>potest aliquid fieri sine materia; et, quod Deus non est causa efficiens, nisi respectu ejus 
+            <lb ed="#C"/>quod habet esse in potentia materie.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e478" n="47">
+            <lb ed="#C"/><!-- 47. -->Quod entia declinant ab ordine prime cause, in se considerata, licet non in ordine 
+            <lb ed="#C"/>ad alias causas agentes in uni verso. - Error, quia essentialior et inseparabilior est ordo
+            <lb ed="#C"/>entium ad primam causam, quam ad causas inferiores.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e489" n="48">
+            <lb ed="#C"/><!-- 48. -->Quod Deus non potest esse causa novi facti, nec potest aliquid de novo producere.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e495" n="49">
+            <lb ed="#C"/><!-- 49. -->Quod Deus non possit movere celum motu recto. Et ratio est, quia tune relin<lb ed="#C" break="no"/>queret 
+            vacuum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e503" n="50">
+            <lb ed="#C"/><!-- 50. -->Quod Deus non potest irregulariter, id est, alio modo, quam movet, movere 
+            <lb ed="#C"/>aliquid, quia in eo non est diversitas voluntatis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e511" n="51">
+            <lb ed="#C"/><!-- 51. -->Quod Deus est eternus in agendo et movendo, sicut in essendo; aliter ab alio
+            determinaretur, quod esset prius illo.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e517" n="52">
+            <lb ed="#C"/><!-- 52. -->Quod id, quod de se determinatur ut Deus, vel semper agit, vel nunquam; et, 
+            <lb ed="#C"/>quod multa sunt eterna.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e525" n="53">
+            <lb ed="#C"/><!-- 53. -->Quod Deum necesse est facere, quicquid immediate fit ab ipso. - Error, sive 
+            <lb ed="#C"/>intelligatur de necessitate coactionis, quia tollit libertatem, sive de necessitate inmutabi<lb ed="#C" break="no"/>litatis, 
+            quia ponit impotentiam aliter faciendi.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e536" n="54">
+            <lb ed="#C"/><!-- 54. -->Quod primum principium potest inmediate producere generabilia, quia sunt 
+            <lb ed="#C"/>effectus novi. Effectus autem novus exigit causam inmediatam, que potest aliter se 
+            <lb ed="#C"/>habere.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e546" n="55">
+            <lb ed="#C"/><!-- 55. -->Quod primum non potest aliud a se producere; quia omnis differentia, que est 
+            <lb ed="#C"/>inter agens et factum, est per materiam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e554" n="56">
+            <lb ed="#C"/><!-- 56. -->Quod Deus non potest inmediate cognoscere contingentia, nisi per aliam parti<lb ed="#C" break="no"/>cularem 
+            causam et proximam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e562" n="57">
+            <lb ed="#C"/><!-- 57. -->Quod si omnes cause aliquando fuerint in quiete, necesse est ponere Deum 
+            <lb ed="#C"/>mobilem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e570" n="58">
+            <pb ed="#C" n="547"/>
+            <lb ed="#C"/><!--58. -->Quod Deus est causa necessaria prime intelligentie: qua posita ponitur effectus, 
+            <lb ed="#C"/>et sunt simul duratione.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e580" n="59">
+            <lb ed="#C"/><!-- 59. -->Quod Deus est causa necessaria motus corporum superiorum et conjunctionis et 
+            <lb ed="#C"/>divisionis continentis in stellis. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e589" n="60">
+            <lb ed="#C"/><!-- 60. -->Quod ad hoc, quod omnes effectus sint necessarii respectu cause prime, non 
+            <lb ed="#C"/>sufficit, quod ipsa causa prima non sit impedibilis; sed exigitur, quod cause medie non 
+            <lb ed="#C"/>sint impedibiles. - Error, quia tunc Deus non posset facere effectum necessarium sine 
+            <lb ed="#C"/>causis posterioribus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e601">
+            61. Quod Deus possit agere contraria, hoc est, mediante corpore celesti, quod est 
+            <lb ed="#C"/>diversum in ubi.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e606" n="62">
+            <lb ed="#C"/><!-- 62. -->Quod Deus est infinite virtutis, non quia faciat aliquid de nichilo, sed quia con<lb ed="#C" break="no"/>tinuat
+            motum infinitum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e614" n="63">
+            <lb ed="#C"/><!-- 63. -->Quod Deus non potest in effectum cause secundarie sine ipsa causa secundaria
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e620" n="64">
+            <lb ed="#C"/><!-- 64. -->Quod effectus inmediatus a primo debet esse unus tantum, et simillimus primo.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e626" n="65">
+            <lb ed="#C"/><!-- 65. -->Quod Deus vel intelligentia non infundit scientiam anime humane in sompno, 
+            <lb ed="#C"/>nisi mediante corpore celesti.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e635" n="66">
+            <lb ed="#C"/><!-- 66. -->Quod plures sunt motores primi.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e641" n="67">
+            <lb ed="#C"/><!-- 67. -->Quod primum inmobile simpliciter non movet, nisi aliquo moto mediante, et quod 
+            <lb ed="#C"/>tale movens inmobile est pars moti ex se.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e649" n="68">
+            <lb ed="#C"/><!-- 68. -->Quod potentia activa, que potest esse sine operatione, est potentie passive per<lb ed="#C" break="no"/>mixta. 
+            - Error, si intelligatur de quacumque operatione
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e657" n="69">
+            <lb ed="#C"/><!-- 69. -->Quod substantie separate, eo quod habent unum appetitum, non mutantur in 
+            <lb ed="#C"/>opere.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e665" n="70">
+            <lb ed="#C"/><!-- 70. -->Quod intelligentie, sive substantio separate, quas dicunt eternas, non habent 
+            <lb ed="#C"/>proprie causam efficientem, sed metaphorice, quia habent conservantem causam in esse; 
+            <lb ed="#C"/>sed non sunt facto de novo, quia sic essent transmutubiles.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e675" n="71">
+            <lb ed="#C"/><!-- 71. -->Quod in substantiis separatis nulla est possibilis transmutatio; nec sunt in 
+            <lb ed="#C"/>potentia ad aliquid, quia eterne et immunes sunt a materia
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e684" n="72">
+            <lb ed="#C"/><!-- 72. -->Quod substantie separate, quia non habent materiam, per quam prius sint in 
+            <lb ed="#C"/>potentia, quam in actu, et sunt a causa eodem modo semper se habente: ideo sunt 
+            <lb ed="#C"/>eterne.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e694" n="73">
+            <lb ed="#C"/><!-- 73. -->Quod substantie separate per suum intellectum creant res.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e700">
+            74. Quod intelligentia motrix celi influit in animam rationalem, sicut corpus celi 
+            <lb ed="#C"/>influit in corpus humanum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e705" n="75">
+            <lb ed="#C"/><!-- 75. -->Quod angelus non potest in actus oppositos inmediate, sed in actus mediatos 
+            <lb ed="#C"/>mediante, alio, ut orbe.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e713" n="76">
+            <lb ed="#C"/><!-- 76. -->Quod angelus nichil intelligit de novo.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e719" n="77">
+            <pb ed="#C" n="548"/>
+            <lb ed="#C"/><!--77. -->Quod si esset aliqua substantia separata, que non moveret aliquod corpus in hoc 
+            <lb ed="#C"/>mundo sensibili, non clauderetur in universo. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e730" n="78">
+            <lb ed="#C"/><!-- 78. -->Quod substantie sempiterne separate a materia habent bonum, quod est eis possi<lb ed="#C" break="no"/>bile, 
+            cum producuutur, nec desiderant aliquid, quo carent. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e738" n="79">
+            <lb ed="#C"/><!-- 79. -->Quod substantie separate sunt sua essentia, quia in eis idem est quo est, et quod 
+            <lb ed="#C"/>est.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e746" n="80">
+            <lb ed="#C"/><!-- 80. -->Quod omne, quod non habet materiam, est eternum; quia, quod non est factum 
+            <lb ed="#C"/>per transmutationem materie, prius non fuit: ergo est eternum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e754" n="81">
+            <lb ed="#C"/><!-- 81. -->Quod, quia intelligentie non habent materiam, Deus non posset facere plures 
+            <lb ed="#C"/>ejusdem speciei. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e762" n="82">
+            <lb ed="#C"/><!-- 82. -->Quod intelligentie superiores non sunt causa alicujus novitatis in inferioribus, et
+            <lb ed="#C"/>quod superiores sunt inferioribus causa eterne cognitionis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e770" n="83">
+            <lb ed="#C"/><!-- 83. -->Quod intelligentia perficitur a Deo in eternitate, quia secundum totum inmuta<lb ed="#C" break="no"/>bilis 
+            est, anima autem celi non. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e779" n="84">
+            <lb ed="#C"/><!-- 84. -->Quod intelligentia recipit a Deo esse per intelligentias medias. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e785" n="85">
+            <lb ed="#C"/><!-- 85. -->Quod scientia intelligentie non differt a substantia ejus; ubi enim non est diver<lb ed="#C" break="no"/>sitas
+            intellecti ab intelligente, nec diversitas intellectorum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e793" n="86">
+            <lb ed="#C"/><!-- 86. -->Quod substantie separate sunt actu infinite. Infinitas enim non est impossibilis, 
+            <lb ed="#C"/>nisi in rebus materialibus. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e801" n="87">
+            <lb ed="#C"/><!-- 87. -->Quod mundus est eternus, quantum ad omnes species in eo contentas ; et, quod 
+            <lb ed="#C"/>tempus est eternum, et motus, et materia, et agens, et suscipiens; et quia est a potentia 
+            <lb ed="#C"/>Dei infinita, et impossibile est innovationem esse in effectu sine innovatione in causa. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e811" n="88">
+            <lb ed="#C"/><!-- 88. -->Quod nichil esset novum, nisi celum esset variatum respectu materie genera<lb ed="#C" break="no"/>bilium. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e819" n="89">
+            <lb ed="#C"/><!-- 89. -->Quod impossibile est solvere rationes philosophi de eternitate mundi, nisi dica<lb ed="#C" break="no"/>mus, 
+            quod voluntas primi implicat incompossibilia.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e828" n="90">
+            <lb ed="#C"/><!-- 90. -->Quod naturalis philosophus debet negare simpliciter mundi novitatem, quia inni<lb ed="#C" break="no"/>titur
+            causis naturalibus, et rationibus naturalibus. Fidelis autem potest negare mundi 
+            <lb ed="#C"/>eternitatem, quia innititur causis supernaturalibus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e838" n="91">
+            <lb ed="#C"/><!-- 91. -->Quod ratio philosophi demonstrans motum celi esse eternum non est sophis<lb ed="#C" break="no"/>tica; 
+            et mirum, quod homines profundi hoc non vident.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e846" n="92">
+            <lb ed="#C"/><!-- 92. -->Quod corpora celestia moventur a principio intrinseco, quod est anima; et quod 
+            <lb ed="#C"/>moventur per animam et per virtutem appetitivam, sicut animal. Sicut enim animal appe<lb ed="#C" break="no"/>tens 
+            movetur, ita et celum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e856" n="93">
+            <lb ed="#C"/><!-- 93. -->Quod corpora celestia habent ex se eternitatem sue substantie, sed non eterni<lb ed="#C" break="no"/>tatem 
+            motus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e864" n="94">
+            <lb ed="#C"/><!-- 94. -->Quod duo sunt principia eterna, scilicet corpus celi, et anima ejus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e870" n="95">
+            <lb ed="#C"/><!-- 95. -->Quod tria sunt principia in celestibus: subjectum motus eterni; anima corporis 
+            <lb ed="#C"/>celestis; et primum movens ut desideratum. - Error est quoad duo prima.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e879" n="96">
+            <lb ed="#C"/><!-- 96. -->Quod Deus non potest multiplicare individua sub una specie sine materia. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e885" n="97">
+            <lb ed="#C"/><!-- 97. -->Quod individua ejusdem speciei differeunt sola positione materie, ut Socrates et 
+            <lb ed="#C"/>Plato, et quod forma humana existente in utroque eadem numero non est mirum, si 
+            <lb ed="#C"/>idem numero est in diversis locis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e895" n="98">
+            <lb ed="#C"/><!-- 98. -->Quod mundus est eternus, quia quod habet naturam, per quam possit esse in 
+            <lb ed="#C"/>toto futuro, habet naturam, per quam potuit esse in toto preterito.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e903" n="99">
+            <lb ed="#C"/><!-- 99. -->Quod mundus, licet sit factus de nichilo, non tamen est factus de novo; et 
+            <lb ed="#C"/>quamvis de non esse exierit in esse, tamen non esse non precessit esse duratione, 
+            <lb ed="#C"/>sed natura tantum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e913" n="100">
+            <lb ed="#C"/><!-- 100. -->Quod theologi dicentes quod celum quandoque quiescit, arguunt ex falsa 
+            <lb ed="#C"/>suppositione; et, quod dicere, celum esse, et non moveri, est dicere contradicere.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e921" n="101">
+            <lb ed="#C"/><!-- 101. -->Quod infinite processerunt revolutiones celi, quas non fuit impossibile com<lb ed="#C" break="no"/>prehendi 
+            a prima causa, sed ab intellectu creato.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e930" n="102">
+            <lb ed="#C"/><!-- 102. -->Quod anima celi est intelligentia, et orbes celestes non sunt instrumenta 
+            <lb ed="#C"/>intelligentiarum sed organa, sicut auris et oculus sunt organa virtutis sensitive.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e938" n="103">
+            <lb ed="#C"/><!-- 103. -->Quod forma, quam oportet esset et fieri in materia, non potest agi ab illo, 
+            <lb ed="#C"/>quod non agit ex materia.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e946" n="104">
+            <lb ed="#C"/><!-- 104. -->Quod humanitas non est forma rei, sed rationis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e952" n="105">
+            <lb ed="#C"/><!-- 105. -->Quod forma hominis non est ab extrinseco, sed educitur de potentia materie, 
+            <lb ed="#C"/>quia aliter non esset generatio univoca.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e960" n="106">
+            <lb ed="#C"/><!-- 106. -->Quod omnium formarum causa effectiva inmediata est orbis. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e966" n="107">
+            <lb ed="#C"/><!-- 107. -->Quod elementa sunt eterna. Sunt tamen facta de novo in dispositione, quam 
+            <lb ed="#C"/>modo habent.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e975" n="108">
+            <lb ed="#C"/><!-- 108. -->Quod anima humana nullo modo est mobilis secundum locum, nec per se, 
+            <lb ed="#C"/>nec per accidens; et si ponatur alicubi per substantiam suam, nunquam movebitur de 
+            <lb ed="#C"/>ubi ad ubi.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e985" n="109">
+            <lb ed="#C"/><!-- 109. -->Quod substantia anime est eterna; et quod intellectus agens et possibilis sunt 
+            <lb ed="#C"/>eterni.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e993" n="110">
+            <lb ed="#C"/><!-- 110. -->Quod motus celi sunt propter animam intellectivam; et anima intellectiva sive 
+            <lb ed="#C"/>intellectus non potest educi, nisi mediante corpore.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1001" n="111">
+            <lb ed="#C"/><!-- 111. -->Quod nulla forma ab extrinseco veniens potest facere unum cum materia.
+            <lb ed="#C"/>Quod enim separabile est, cum eo, quod est corruptibile, unum non facit.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1009" n="112">
+            <lb ed="#C"/><!-- 112. -->Quod intelligentie superiores imprimunt in inferiores, sicut anima una imprimit 
+            <lb ed="#C"/>in aliam, et etiam in animam sensitivam; et per talem impressionem incantator aliquis 
+            <lb ed="#C"/>prohicit camelum in foveam solo visu.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1019" n="113"> 
+            <pb ed="#C" n="550"/>
+            <lb ed="#C"/><!--113. -->Quod anima separata non est alterabilis secundum philosophiam, licet secun<lb ed="#C" break="no"/>dum 
+            fidem alteretur.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1030" n="114">
+            <lb ed="#C"/><!-- 114. -->Quod anima rationalis, quando recedit ab animali, adhuc remanet animal 
+            <lb ed="#C"/>vivum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1038" n="115">
+            <lb ed="#C"/><!-- 115. -->Quod anima intellectiva cognoscendo se cognoscit omnia alia. Species enim 
+            <lb ed="#C"/>omnium rerum sunt sibi concreate. Sed hec cognitio non debetur intellectui nostro, 
+            <lb ed="#C"/>secundum quod noster est, sed secundum quod est intellectus agens. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1048" n="116">
+            <lb ed="#C"/><!-- 116. -->Quod anima est inseparabilis a corpore; et quod ad corruptionem harmonie 
+            <lb ed="#C"/>corporalis corrumpitur anima. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1056" n="117">
+            <lb ed="#C"/><!-- 117. -->Quod scientia magistri et discipuli est una numero; ratio autem, quod intel<lb ed="#C" break="no"/>lectus 
+            sic unus est: quia forma non multiplicatur, nisi quia educitur de potentia 
+            <lb ed="#C"/>materie. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1066" n="118">
+            <lb ed="#C"/><!-- 118. -->Quod intellectus agens non copulatur nostro possibili; et quod intellectus 
+            <lb ed="#C"/>possibilis non unitur nobiscum secundum substantiam. Et si uniretur ut forma, 
+            <lb ed="#C"/>esset inseparabilis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1076" n="119">
+            <lb ed="#C"/><!-- 119. -->Quod operatio intellectus non uniti capulatur corpori, ita quod operatio est 
+            <lb ed="#C"/>rei non habentis formam, qua operatur. - Error, quia ponit, quod intellectus non sit 
+            <lb ed="#C"/>forma hominis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1087" n="120">
+            <lb ed="#C"/><!-- 120. -->Quod nichil potest sciri de intellectu post ejus separationem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1093" n="121">
+            <lb ed="#C"/><!-- 121. -->Quod intellectus, qui est ultima hominis perfectio, est penitus abstractus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1099" n="122">
+            <lb ed="#C"/><!-- 122. -->Quod intellectus possibilis est inseparabilis a corpore simpliciter quantum 
+            <lb ed="#C"/>ad hunc actum, qui est specierum receptio, et quantum ad judicium, quod fit per 
+            <lb ed="#C"/>simplicem specierum adeptionem, vel intelligibilium compositionem. - Error, si 
+            <lb ed="#C"/>intelligatur de omnimoda receptione.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1111" n="123">
+            <lb ed="#C"/><!-- 123. -->Quod intellectus agens est quedam substantia separata superior ad intellectum ·
+            <lb ed="#C"/>possibilem; et quod secundum substantiam, potentiam et operationem est separatus a 
+            <lb ed="#C"/>corpore, nec est forma corporis humani.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1121" n="124">
+            <lb ed="#C"/><!-- 124. -->Quod inconveniens est ponere aliquos intellectus nobiliores aliis; quia cum 
+            <lb ed="#C"/>ista diversitas non possit esse a parte corporum, oportet quod sit a parte intelligen<lb ed="#C" break="no"/>tiarum; 
+            et sic anime nobiles et ignobiles essent necessaria diversarum specierum, 
+            <lb ed="#C"/>sicut intelligentie. - Error, quia sic anima Christi non esset nobilior anima Jude.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1133" n="125">
+            <lb ed="#C"/><!-- 125. -->Quod intellectus speculativus simpliciter est eternus et incorruptibilis; respectu 
+            <lb ed="#C"/>vel hujus hominis corrumpitur corruptis fantasmatibus in eo.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1142" n="126">
+            <lb ed="#C"/><!-- 126. -->Quod intellectus possibilis nichil est in actu, antequam intelligat; quia in 
+            <lb ed="#C"/>natura intelligibili esse aliquid in actu est esse actu intelligens.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1150" n="127">
+            <lb ed="#C"/><!-- 127. -->Quod ex intelligente et intellecto fit una substantia, eo quod intellectus sit 
+            <lb ed="#C"/>ipsa intelligentia formaliter.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1158" n="128">
+            <lb ed="#C"/><!-- 128. -->Quod illud, quod de sui natura non est determinatum ad esse vel non esse, 
+            <lb ed="#C"/>non determinatur, nisi per aliquid, quod est necessarium respectu sui.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1166" n="129">
+            <lb ed="#C"/><!-- 129. -->Quod voluntas manente passione et scientia particulari in actu non potest agere 
+            <lb ed="#C"/>contra eam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1174" n="130">
+            <lb ed="#C"/><!-- 130. -->Quod, si ratio recta, et voluntas recta. - Error; quia contra glossam Augustini 
+            <lb ed="#C"/>super illud psalmi <quote xml:id="z88d99-avn8u2-Qd1e1181" source="http://scta.info/resource/ps">Concupivit anima mea desiderare</quote>, etc., et quia secundum hoc, 
+            <lb ed="#C"/>ad rectitudinem voluntatis non esset necessaria gratia, sed scientia solum, quod est error 
+            <lb ed="#C"/>Pelagii
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1189" n="131">
+            <lb ed="#C"/><!-- 131. -->Quod voluntate existente in tali dispositione, in qua nata est moveri et manente 
+            <lb ed="#C"/>sic disposito, matum est movere, impossibile est voluntatem non velle.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1198" n="132">
+            <lb ed="#C"/><!-- 132. -->Quod orbis est causa voluntntis meclici, ut snnet. </p>
+          <p xml:id="z88d99-avn8u2-d1e1204" n="133">
+            <lb ed="#C"/><!-- 133. -->Quod voluntas et intellectus non moventur in actu per se, sed per causam 
+            <lb ed="#C"/>sempiternum, scilicct corpora celestia.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1212" n="134">
+            <lb ed="#C"/><!-- 134. -->Quod appetitus, cessantibus impedimentis, nccessario movetur ab appetibili. - 
+            <lb ed="#C"/>Error est de intellectivo.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1220" n="135">
+            <lb ed="#C"/><!-- 135. -->Quod voluntas secundum se est indeterminata ad opposita sicut materia; deter<lb ed="#C" break="no"/>minatur 
+            autem ab appetibili, sicut materia ab agente.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1228" n="136">
+            <lb ed="#C"/><!-- 136. -->Quod homo agens ex passione coacte agit.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1234" n="137">
+            <lb ed="#C"/><!-- 137. -->Quod quamvis generatio hominum possit deficere, virtute primi tamen non 
+            <lb ed="#C"/>deficiet; quia orbis primus non solum movet ad generationem elementorum, sed etiam 
+            <lb ed="#C"/>hominum. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1245" n="138">
+            <lb ed="#C"/><!-- 138. -->Qnod, cum Deus non comparetur ad entia in ratione cause materialis vel 
+            <lb ed="#C"/>formalis, non facit, accidens esse sine subjecto,de cujus ratione est actu inesse 
+            <lb ed="#C"/>subjecto
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1255" n="139">
+            <lb ed="#C"/><!-- 139. -->Quod accidens existens sine subjecto non est accidens, nisi equivoce; et quod
+            impossibile est quantitatem sinr dimensionem esse per se; hoc enim esset ipsam esse
+            substantiam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1261" n="140">
+            <lb ed="#C"/><!-- 140. -->Quod facere accidens esse sino subjecto, habet rationem impossibilis, implicantis
+            <lb ed="#C"/>contradictionem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1269" n="141">
+            <lb ed="#C"/><!-- 141. -->Quod Deus non potest facere accidens esse sine·subjecto, nec plures dimen<lb ed="#C" break="no"/>siones 
+            simul esse.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1277">
+            142. Quod ex diversitate locorum acquiruntur necessitates eventuum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1280" n="143">
+            <lb ed="#C"/><!-- 143. -->Quod ex diversis signis celi signantur diverse conditiones in hominibus tam 
+            <lb ed="#C"/>donorum spiritualium, quam rerum temporalium.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1289" n="144">
+            <lb ed="#C"/><!-- 144. -->Quod omne bonum, quod homini possibile est, consistit in virtutibus intellec<lb ed="#C" break="no"/>tualibus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1297" n="145">
+            <lb ed="#C"/><!-- 145. -->Quod nulla questio est disputabilis per rationem, quam philosophus non debeat
+            <pb ed="#C" n="552"/>
+            <lb ed="#C"/>disputare et determinare, quia rationes accipiuntur a rebus. Philosophia autem omnes 
+            <lb ed="#C"/>res·habet considerare secundum diversas sui partes.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1309" n="146">
+            <lb ed="#C"/><!-- 146. -->Quod possibile vel impossibile simpliciter, id est, omnibus modis, est possibile 
+            <lb ed="#C"/>vel impossibile secundum philosophiam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1317">
+            <lb ed="#C"/>147 Quod impossibile simpliciter non potest fieri a Deo, vel ab agente alio. - Error, 
+            <lb ed="#C"/>si de impossibili secundum naturam intelligatur.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1324" n="148">
+            <lb ed="#C"/><!-- 148. -->Quod homo per nutritionem potest fieri numeraliter·et individualiter.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1330" n="149">
+            <lb ed="#C"/><!-- 149. -->Quod alius est intellectus in ratione secundum quod Deus intelligit se et alia.
+            <lb ed="#C"/>- Error, quia licet sit alia ratio intelligendi, non tamen alius intellectus secundum 
+            <lb ed="#C"/>rationem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1341" n="150">
+            <lb ed="#C"/><!-- 150. -->Quod homo non debet esse contentus auctoritate ad habendum certitudinem 
+            <lb ed="#C"/>alicuius questionis questionis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1349" n="151">
+            <lb ed="#C"/><!-- 151. -->Quod ad hoc, quod homo habeat aliquam certitudinem alicujus conclusionis 
+            <lb ed="#C"/>oportet, quod sit fundatus super principia per se nota. - Error, quia generaliter tam 
+            <lb ed="#C"/>de certitudine apprehensionis quam adhesionis loquitur
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1359" n="152">
+            <lb ed="#C"/><!-- 152. -->Quod sermones theologi fnndati sunt in fabulis. </p>
+          <p xml:id="z88d99-avn8u2-d1e1365" n="153">
+            <lb ed="#C"/><!-- 153. -->Quod nichil plus scitur proptc1· scire theologiam. </p>
+          <p xml:id="z88d99-avn8u2-d1e1371" n="154">
+            <lb ed="#C"/><!-- 154. -->Quod sapientes mundi aunt philosophi tantum. </p>
+          <p xml:id="z88d99-avn8u2-d1e1377" n="155">
+            <lb ed="#C"/><!-- 155. -->Quod 11.011 est curandmn de sepultura. </p>
+          <p xml:id="z88d99-avn8u2-d1e1384" n="156">
+            <lb ed="#C"/><!-- 156. -->Quod si celum staret, ignis in stupam non ngerct, ciufa Dou1-1 non ◄,~ot. , •• </p>
+          <p xml:id="z88d99-avn8u2-d1e1390" n="157">
+            <lb ed="#C"/><!-- 157. -->Quod homo ordinatus quantum: ad intellectum et affectum, sicut potest suffi<lb ed="#C" break="no"/>cienter 
+            esse per virtutes intellectuales et alias morales, de quibus loquitur philosophus
+            <lb ed="#C"/>in Ethicis, est sufficienter dispositus ad felicitatem eternam
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1400" n="158">
+            <lb ed="#C"/><!-- 158. -->Quod post conclusionem factam de aliquo faciendo, voluntas non manet liber; 
+            <lb ed="#C"/>et quod pene non adhibentur a lege, nisi ad ignorantie correptionem, et ut correptio 
+            <lb ed="#C"/>sit aliis principium cognitionis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1410" n="159">
+            <lb ed="#C"/><!-- 159. -->Quod voluntas hominis necessitatur per suum cognitionem, sicut appetitus
+            <lb ed="#C"/>bruti.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1418" n="160">
+            <lb ed="#C"/><!-- 160. -->Quod nullum agens est ad utrumlibet, immo determinatur.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1424" n="161">
+            <lb ed="#C"/><!-- 161. -->Quod effectus stellarum super liberum arbitrium sunt occulti.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1431" n="162">
+            <lb ed="#C"/><!-- 162. -->Quod voluntas nostra subjacet potestati corporum celestium.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1437" n="163">
+            <lb ed="#C"/><!-- 163. -->Quod voluntas necessario prosequitur, quod firmiter creditum est a ratione; et 
+            <lb ed="#C"/>quod non potest abstinere ab eo, quod ratio dictat. Hec autem necessitatio non est 
+            <lb ed="#C"/>coactio, sed natura voluntatis. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1447" n="164">
+            <lb ed="#C"/><!-- 164. -->Quod homo in omnibus actionibus suis sequitur appetitum, et semper majorem. 
+            <lb ed="#C"/>- Error, si intelligatur de majori in movendo. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1455" n="165">
+            <lb ed="#C"/><!-- 165. -->Quod non est possibile esse peccatum in potentiis anime superioribus. Et ita 
+            <lb ed="#C"/>peccatum passione fit, non voluntate. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1463" n="166">
+            <pb ed="#C" n="553"/>
+            <lb ed="#C"/><!--166. -->Quod peccatum contra naturam, utpote abusus in coitu, licet sit contra naturam 
+            <lb ed="#C"/>speciei, non tamen est contra naturam individui.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1473" n="167">
+            <lb ed="#C"/><!-- 167. -->Quod quibusdam signis sciuntur hominum intentiones et mutationes inten<lb ed="#C" break="no"/>tionum, 
+            et an ille intentiones perficiende sint, et quod per tales figuras sciuntur eventus 
+            <lb ed="#C"/>peregrinorum, captivatio hominum, solutio captivorum, et an futuri sint scientes an latrones.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1484" n="168">
+            <lb ed="#C"/><!-- 168. -->Quod continentia non est essentialiter virtus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1490" n="169">
+            <lb ed="#C"/><!-- 169. -->Quod perfecta abstinentia ab actu carnis corrumpit virtutem et speciem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1496" n="170">
+            <lb ed="#C"/><!-- 170. -->Quod pauper bonis fortune non potest bene agere in moralibus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1502" n="171">
+            <lb ed="#C"/><!-- 171. -->Quod humilitas, prout quis non ostentat ea que habet, sed vilipendit et humi<lb ed="#C" break="no"/>liat 
+            se, non est virtus. - Error, si intelligatur : nec virtus nec actus virtuosus. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1510" n="172">
+            <lb ed="#C"/><!-- 172. -->Quod delectatio in actibus <sic>venereis</sic> non impedit actum seu usum intellectus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1519" n="173">
+            <lb ed="#C"/><!-- 173. -->Quod scientia contrariorum solum est causa, quare anima rationalis potest in
+            <lb ed="#C"/>opposita; et quod potentia simpliciter una non potest in opposita, nisi per accidens, et
+            <lb ed="#C"/>ratione alterius.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1530" n="174">
+            <lb ed="#C"/><!-- 174. -->Quod fabula et falsa sunt in lege christiana, sicut in aliis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1536" n="175">
+            <lb ed="#C"/><!-- 175. -->Quod lex christiana impedit addiscere.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1542" n="176">
+            <lb ed="#C"/><!-- 176. -->Quod felicitas habetur in ista vita, et non in alia.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1548" n="177">
+            <lb ed="#C"/><!-- 177. -->Quod non sunt possibiles alie virtutes, nisi acquisite, vel innate.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1554" n="178">
+            <lb ed="#C"/><!-- 178. -->Quod finis terribilium est mors. - Error, si excludat inferni terrorem qui 
+            <lb ed="#C"/>extremus est.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1562" n="179">
+            <lb ed="#C"/><!-- 179. -->Quod non est confitendum, nisi ad apparentiam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1569" n="180">
+            <lb ed="#C"/><!-- 180. -->Quod non est orandum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1575" n="181">
+            <lb ed="#C"/><!-- 181. -->Quod castitas non est majus bonum, quam perfecta abstinentia.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1581" n="182">
+            <lb ed="#C"/><!-- 182. -->Quod possibile est, quod fiat naturaliter universale diluvium ignis. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1587" n="183">
+            <lb ed="#C"/><!-- 183. -->Quod simplex fornicatio, utpote soluti cum soluta, non est peccatum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1593" n="184">
+            <lb ed="#C"/><!-- 184. -->Quod creatio non est possibilis, quamvis contrarium tenendum sit secundum fidem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1599" n="185">
+            <lb ed="#C"/><!-- 185. -->Quod non est verum, quod aliquid fiat ex nichilo, neque factum sit in prima 
+            <lb ed="#C"/>creatione.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1608" n="186">
+            <lb ed="#C"/><!-- 186. -->Quod celum nunquam quiescit, quia generatio inferiorum, que est finis motus 
+            <lb ed="#C"/>celi, cessare non debet; alia ratio, quia celum suum esse et suam virtutem hahet a 
+            <lb ed="#C"/>motore suo; et hec conservat celum per suum motum. Unde si cessaret a motu, cessaret 
+            <lb ed="#C"/>ab esse.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1620" n="187">
+            <lb ed="#C"/><!-- 187. -->Quod nos pejus aut melius intelligimus, hoc provenit ab intellectu passivo, 
+            <lb ed="#C"/>quem dicit esse potentiam sensitivam. - Error, quia hoc ponit unum intellectum in 
+            <lb ed="#C"/>omnibus, aut equalitatem in omnibus animabus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1630" n="188">
+            <lb ed="#C"/><!-- 188. -->Quod si in aliquo humore virtute stellarum deveniretur ad talem proportionem,
+            <pb ed="#C" n="554"/>
+            <lb ed="#C"/>cujusmodi proportio est in seminibus parentum, ex illo humore posset generari homo; 
+            <lb ed="#C"/>et sic homo posset sufficienter generari ex putrefactioue.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1642" n="189">
+            <lb ed="#C"/><!-- 189. -->Quod cum intelligentia sit plena formis, imprimit illas formas in materiam per 
+            <lb ed="#C"/>corpora celestia tanquam per instrumenta.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1650" n="190">
+            <lb ed="#C"/><!-- 190. -->Quod prima causa est causa omnium remotissima. - Error, si intelligatur ita 
+            <lb ed="#C"/>scilicet, quod non propinquissima.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1658" n="191">
+            <lb ed="#C"/><!-- 191. -->Quod forme nou recipiunt divisionem, nisi per materiam. - Error, nisi intelli<lb ed="#C" break="no"/>gatur 
+            de formis eductis de potentia materie. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1667" n="192">
+            <lb ed="#C"/><!-- 192. -->Quod materialis forma non potest creari. </p>
+          <p xml:id="z88d99-avn8u2-d1e1673" n="193">
+            <lb ed="#C"/><!-- 193. -->Quod intellectus potest transire de corpore in corpus, ita quod sit successive 
+            <lb ed="#C"/>motor diversorum corporum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1681" n="194">
+            <lb ed="#C"/><!-- 194. -->Quod anima nichil vult, nisi mota ab alio. Unde illud est falsum: anima seipsa 
+            <lb ed="#C"/>vult. - Error, si intelligatur mota ab alio scilicet ab appetibili vel objecto, ita quod appe<lb ed="#C" break="no"/>tibile 
+            vel objectum sit tota ratio motus ipsius voluntatis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1691" n="195">
+            <lb ed="#C"/><!-- 195. -->Quod fatum, quod est dispositio universi, procedit ex providentia divina non 
+            <lb ed="#C"/>inmediate, sed mediante motu corporum superiorum; et quod istud fatum non imponit 
+            <lb ed="#C"/>necessitatem inferioribus, quia habent contrarietatem, sed superioribus.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1701" n="196">
+            <lb ed="#C"/><!-- 196. -->Quod dignitatis est in causis superioribus, posse facere peccata et monstra 
+            <lb ed="#C"/>preter intentionem, cum natura hoc possit.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1709" n="197">
+            <lb ed="#C"/><!-- 197. -->Quod aliqua possunt casualiter evenire respectu cause prime; et quod falsum 
+            <lb ed="#C"/>est, omnia esse preordinata a causa prima: quia tunc evenirent de necessitato.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1718" n="198">
+            <lb ed="#C"/><!-- 198. -->Quod in causis efficientibus causa secunda habet actionem, quam non accepit 
+            <lb ed="#C"/>a causa prima. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1726" n="199">
+            <lb ed="#C"/><!-- 199. -->Quod in causis efficientibus cessante prima non cessat secunda ab operatione 
+            <lb ed="#C"/>sua, dum tamen secunda operetur secundum naturam suam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1734" n="200">
+            <lb ed="#C"/><!-- 200. -->Quod evum et tempus nichil sunt in re, sed solum in apprehensione. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1740" n="201">
+            <lb ed="#C"/><!-- 201. -->Quod, qui generat mundum secundum totum, ponit vacuum, quia locus neces<lb ed="#C" break="no"/>sario 
+            precedit generatum in loco; et tune ante mundi generationem fuisset locus sine 
+            <lb ed="#C"/>locato, quod est vacuum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1750" n="202">
+            <lb ed="#C"/><!-- 202. -->Quad elementa previa generatione sunt facta ex illo chaos; sed sunt eterna.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1756" n="203">
+            <lb ed="#C"/><!-- 203. -->Quod universum non potest deficere, quia primum agens habet transmutare 
+            <lb ed="#C"/>eternaliter vicissim, nunc ad istam formam, nunc ad illam, et similitor materia nata est 
+            <lb ed="#C"/>transmutari.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1767" n="204">
+            <lb ed="#C"/><!-- 204. -->Quod substantie separate sunt alicubi per operationem; et quod non possunt 
+            <lb ed="#C"/>moveri ab extremo in extremum, nec in medium, nisi quia possunt velle operari aut in 
+            <lb ed="#C"/>medio, aut in extremis. - Error, si intelligatur, sine operatione substantiam non esse 
+            <lb ed="#C"/>in loco, nec transire de loco ad locum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1779" n="205">
+            <lb ed="#C"/><!-- 205. -->Quod tempus est infinitum quantum ad utrumque extremum, licet enim impos<pb ed="#C" n="555"/><lb ed="#C" break="no"/>sibile 
+            sit, infinita esse pertransita, quorum aliquid fuit pertranseundum; non tamen 
+            <lb ed="#C"/>impossibile est, infinita esse pertransita, quorum nullum fuit pertranseundum.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1790" n="206">
+            <lb ed="#C"/><!-- 206. -->Quod sanitatem, infirmitatem, vitam et mortem attribuit positioni siderum et 
+            <lb ed="#C"/>aspectui fortune, dicens quod si aspexerit eum fortuna, vivet; si non aspexerit, morietur. 
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1798" n="207">
+            <lb ed="#C"/><!-- 207. -->Quod, in hora generationis hominis in corpore suo et per consequens in anima, 
+            <lb ed="#C"/>quo sequitur corpus, ex ordine causarum superiorum et inferiorum inest homini dispo<lb ed="#C" break="no"/>sitio 
+            inclinans ad tales actiones vel eventus. - Error, nisi intelligatur de eventibus natu<lb ed="#C" break="no"/>ralibus, 
+            et per viam dispositionis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1810" n="208">
+            <lb ed="#C"/><!-- 208. -->Quod duobus bonis propositis quod fortius est fortius movet. - Error, nisi 
+            <lb ed="#C"/>intelligatur quantum est ex parte boni moventis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1818" n="209">
+            <lb ed="#C"/><!-- 209. -->Quod omnes motus voluntarii reducuntur in motorem primum. - Error, nisi 
+            <lb ed="#C"/>intelligatur in motorem primum simpliciter, non creatum; et intelligendo de motu secun<lb ed="#C" break="no"/>dum 
+            substantiam non secundum deformitatem.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1829" n="210">
+            <lb ed="#C"/><!-- 210. -->Quod materia exterior obedit substantie spirituali. - Error, si intelligatur sim<lb ed="#C" break="no"/>pliciter.
+            et secundum omnem modum transmutationis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1837" n="211">
+            <lb ed="#C"/><!-- 211. -->Quod intellectus noster per sua naturalis potest pertingere ad cognitionem .
+            <lb ed="#C"/>prime cause. - Hoc malo sonat, et est error, si intelligatur de cognitione inmediata.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1845" n="212">
+            <lb ed="#C"/><!-- 212. -->Quod intelligentia sola voluntate movet celumn.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1851" n="213">
+            <lb ed="#C"/><!-- 213. -->Quod natura, quo est principium motus in corporibus celestibus, est intelligentia 
+            <lb ed="#C"/>movens. - Error, si intelligatur de natura intrinseca, que est actus vel forma.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1859" n="214">
+            <lb ed="#C"/><!-- 214. -->Quod anima moveretur, nisi corpus moveretur, sicut grave vel leve
+            <lb ed="#C"/>numquam moveretur, nisi aer moveretur.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1867" n="215">
+            <lb ed="#C"/><!-- 215. -->Quod de Deo non potest cognosci, nisi quia ipse est, sive ipsum esse.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1874" n="216">
+            <lb ed="#C"/><!-- 216. -->Quod Deum esse ens per se positive, non est intelligibile; sed privative est 
+            <lb ed="#C"/>ens per se.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1882" n="217">
+            <lb ed="#C"/><!-- 217. -->Quod creatio non debet dici mutatio ad esse. -·Error, si intelligatur de omni 
+            <lb ed="#C"/>modo limitationis.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1890" n="218">
+            <lb ed="#C"/><!-- 218. -->Quod intelligentia, vel angelus, vel anima separata nusquam est.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1896" n="219">
+            <lb ed="#C"/><!-- 219. -->Quod substantie separate nusquam sunt secundum substantiam. - Error, si 
+            <lb ed="#C"/>intelligatur ita, quod substantia non si in loco. Si autem intelligatur, quod substantia 
+            <lb ed="#C"/>sit ratio essendi in loco, verum est, quod nusquam sunt secundum substantiam.
+          </p>
+          <p xml:id="z88d99-avn8u2-d1e1906">
+            <lb ed="#C"/>Explicit rotulus errorum continens ducentos et decem et novem articulos Parisius 
+            <lb ed="#C"/>dampnatos a Stephano ejusdem loci fidedigno ministro et episcopo anno Domini MCC 
+            <lb ed="#C"/>septuagesimo sexto, die dominica, qua cantatur Letare Jherusalem in curia Parisiensi
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI><!-- 
+<div>
+  <head>Epistola</head>
+  <p>
+    Universis presentes litteras inspecturis Stephanus, permissione divina Parisiensis
+    ecclesie minister indignus, salutem in filio Virginis gloriose. Magnarum et gravium
+    personarum crebra zeloque fidei accensa insinuavit relatio , quod nonnulli Parisius stu
+    dentes in artibus proprie facultatis limites excedentes quosdam manifestos et execrabiles
+    errores , immo potius vanitates et insanias . falsas in rotulo seu cedulis, presentibus hiis
+    annexo seu annexis contentos quasi dubitabiles in scolis tractare et disputare presumunt ,
+    non attendentes illud Gregorii : Qui sapienter loqui nititur, magno opere metuat ",
+    ejus eloquio audientium unitas confundatur, presertim , cum errores predictos gentilium
+    scripturis muniant , quas , proh pudor !' ad suam imperitiam asserunt sic cogentes , ut eis
+    nesciant respondere . Ne autem , quod sic innuunt ", asserere videantur, responsiones ita
+    palliant , quod , dum cupiunt ' vitare Scillam , incidunt in Caripdim . Dicunt enim ea esse
+    vera secundum philosophiam , sed non secundum fidem catholicam , quasi sint due con
+    trarie veritates , et quasi contra veritatem sacre scripture sit veritas in dictis gentilium
+    dampnatorum , de quibus scriptum est : « Perdam sapientiam sapientium » , quia vera
+    sapientia perdit falsam sapientiam . Utinam tales attenderent consilium sapientis dicentis :
+    « Si tibi est intellectus, responde proximo tuo : sin autem , sit manus lua super os tuum ,
+    ne capiaris in verbo indisciplinato , et confundaris » . Ne igitur incauta locutio simplices
+    pertrahat in errorem , nos tam doctorum sacre scripture ' , quam aliorum prudentium
+    viroruin communicato consilio districte talia et similia fieri prohibemus , et ea totaliter
+    condempnamus, excommunicantes oinnes illos , qui dictos errores vel aliquem ex illis ?
+    doginatizaverint, aut deffendere seu sustinere presumpserint quoquomodo , necnon et
+    auditores , nisi inſra vij dies nobis vel cancellario Parisiensi duxerint revelandum , nichi
+    lominus processuri contra eos pro qualitate culpe ad penas alias , prout jus dictaverit,
+    infligendas. Libruin etiam « De ainore » , sive « De Deo amoris : » , qui sic incipit : Cogit
+    me multum , etc. , et sic terminatur : Cave igitur, Galtere, amoris exercere mandata , etc .;
+    item librum Geomantie , qui sic incipit : Estimaverunt Indi " , etc. , et sic terminatur :
+    Ratiocinare crgo super eum , et invenies, etc., item libros , rotulos seu quaternos nigroman
+    ticos aut " continentes experimenta sortilegiorum , invocationes demonum , sive conjura
+    tiones in periculum animaruin , seu in quibus de talibus et similibus fidei orthodoxe et
+    bonis moribus evidenter adversantibus tractatur , per eandem sententiam nostram condemp
+    namus , in omnes , qui dictos rotulos, libros , quaternos dogmatizaverint , aut audierint ,
+    nisi infra vij dies nobis vel cancellario Parisiensi predicto revelaverint eo modo, quo
+    superius est expressum , in hiis scriptis excommunicationis " ' sententiam proferentes, ad
+    alias
+    CHA.RTULA.RIUH U:NJVERS, PARIS. [1277
+    millesimo CC0 septuagesimo sexto, die dominica, qua cantatur Letare Jherttsalem, in curia
+    Parisiensi.
+    Explicit epistola. Sequuntur errores annotati in rotulo
+  </p>
+</div>
+-->

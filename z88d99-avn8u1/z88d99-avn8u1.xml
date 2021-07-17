@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Epistola</title>
+        <author ref="#per-x84nST">Stephen Tempier</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Epistola</title>
+          <date when="2021-07-16">July 16, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-chaPa1">CUP, 1889, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-07-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="543"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="z88d99-avn8u1">
+        <head xml:id="z88d99-avn8u1-Hd1e104">Epistola</head>
+        <p xml:id="z88d99-avn8u1-d1e107">
+          Universis presentes litteras inspecturis Stephanus, permissione divina Parisiensis
+          ecclesie minister indignus, salutem in filio Virginis gloriose. Magnarum et gravium
+          personarum crebra zeloque fidei accensa insinuavit relatio , quod nonnulli Parisius stu
+          dentes in artibus proprie facultatis limites excedentes quosdam manifestos et execrabiles
+          errores , immo potius vanitates et insanias . falsas in rotulo seu cedulis, presentibus hiis
+          annexo seu annexis contentos quasi dubitabiles in scolis tractare et disputare presumunt ,
+          non attendentes illud Gregorii : Qui sapienter loqui nititur, magno opere metuat ",
+          ejus eloquio audientium unitas confundatur, presertim , cum errores predictos gentilium
+          scripturis muniant , quas , proh pudor !' ad suam imperitiam asserunt sic cogentes , ut eis
+          nesciant respondere . Ne autem , quod sic innuunt ", asserere videantur, responsiones ita
+          palliant , quod , dum cupiunt ' vitare Scillam , incidunt in Caripdim . Dicunt enim ea esse
+          vera secundum philosophiam , sed non secundum fidem catholicam , quasi sint due con
+          trarie veritates , et quasi contra veritatem sacre scripture sit veritas in dictis gentilium
+          dampnatorum , de quibus scriptum est : « Perdam sapientiam sapientium » , quia vera
+          sapientia perdit falsam sapientiam . Utinam tales attenderent consilium sapientis dicentis :
+          « Si tibi est intellectus, responde proximo tuo : sin autem , sit manus lua super os tuum ,
+          ne capiaris in verbo indisciplinato , et confundaris » . Ne igitur incauta locutio simplices
+          pertrahat in errorem , nos tam doctorum sacre scripture ' , quam aliorum prudentium
+          viroruin communicato consilio districte talia et similia fieri prohibemus , et ea totaliter
+          condempnamus, excommunicantes oinnes illos , qui dictos errores vel aliquem ex illis ?
+          doginatizaverint, aut deffendere seu sustinere presumpserint quoquomodo , necnon et
+          auditores , nisi inſra vij dies nobis vel cancellario Parisiensi duxerint revelandum , nichi
+          lominus processuri contra eos pro qualitate culpe ad penas alias , prout jus dictaverit,
+          infligendas. Libruin etiam « De ainore » , sive « De Deo amoris : » , qui sic incipit : Cogit
+          me multum , etc. , et sic terminatur : Cave igitur, Galtere, amoris exercere mandata , etc .;
+          item librum Geomantie , qui sic incipit : Estimaverunt Indi " , etc. , et sic terminatur :
+          Ratiocinare crgo super eum , et invenies, etc., item libros , rotulos seu quaternos nigroman
+          ticos aut " continentes experimenta sortilegiorum , invocationes demonum , sive conjura
+          tiones in periculum animaruin , seu in quibus de talibus et similibus fidei orthodoxe et
+          bonis moribus evidenter adversantibus tractatur , per eandem sententiam nostram condemp
+          namus , in omnes , qui dictos rotulos, libros , quaternos dogmatizaverint , aut audierint ,
+          nisi infra vij dies nobis vel cancellario Parisiensi predicto revelaverint eo modo, quo
+          superius est expressum , in hiis scriptis excommunicationis " ' sententiam proferentes, ad
+          alias
+          <pb ed="#C" n="544"/>
+          millesimo CC0 septuagesimo sexto, die dominica, qua cantatur Letare Jherttsalem, in curia
+          Parisiensi.
+          Explicit epistola. Sequuntur errores annotati in rotulo
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
